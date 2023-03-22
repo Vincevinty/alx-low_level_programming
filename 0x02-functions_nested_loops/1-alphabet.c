@@ -6,6 +6,8 @@
 */
 void print_alphabet(void)
 {
+	print alphabet()
+	return (0);
 	int i;
 
 	for (i = 97; i <= 127; i++)
